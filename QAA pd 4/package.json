@@ -1,0 +1,15 @@
+{
+  "name": "qaa-pd-4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "httpBin.cy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.7.1"
+  }
+}
